@@ -1,0 +1,8 @@
+attendance-system/
+│── static/
+│   ├── images/ (Store student images)
+│── templates/
+│   ├── index.html
+│── app.py
+│── database.py
+│── requirements.txt
